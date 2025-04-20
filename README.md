@@ -78,7 +78,9 @@ allure serve allure-results/
 
 ## Allure-отчёт
 
-Allure-отчёт будет автоматически собираться в GitHub Actions при каждом пуше.
+
+
+[Allure-отчёт](https://krupn0v.github.io/QA_portfolio/) будет автоматически собираться в GitHub Actions при каждом пуше.
 Можно просматривать его локально командой `allure serve`.
 
 ---
